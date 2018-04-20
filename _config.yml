@@ -4,8 +4,8 @@
 baseurl:
 url: https://zxallen.github.io
 date_format: "ordinal"
-title: Beyond
-subtitle: "令狐葱"
+title: zxallen's-blog
+subtitle: "仗剑走天涯的令狐葱"
 description: "Zxallen的个人博客"
 keywords: Beyond, Bing Yao, Dabingge,Python, Spider
 timezone: Asia/Shanghai
