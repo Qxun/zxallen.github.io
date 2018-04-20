@@ -7,7 +7,7 @@ date_format: "ordinal"
 title: zxallen's-blog
 subtitle: "仗剑走天涯的令狐葱"
 description: "Zxallen的个人博客"
-keywords: Beyond, Bing Yao, Dabingge,Python, Spider
+keywords: zxallen,linghucong,Python,Spider,Django,Flask
 timezone: Asia/Shanghai
 encoding: "utf-8"
 side_bar_repo_limit: 5
@@ -16,9 +16,9 @@ side_bar_repo_limit: 5
 #      Author      #
 # ---------------- #
 author: Zxallen
-# organization: zkh360.com
-# organization_url: http://www.zkh360.com
-github_username: lemont0086
+# organization: www.jianshu.com/u/bf4c0b4a8c83
+# organization_url: https://www.jianshu.com/u/bf4c0b4a8c83
+github_username: zxallen
 location: BeiJing, China
 email: hellojiazhixiang@gmail.com
 
@@ -77,7 +77,7 @@ collections:
         output: true
         permalink: /wiki/:path/
 
-repository: ZuoAndroid/zuoandroid.github.io
+repository: zxallen/zxallen.github.io
 
 # ---------------- #
 #      Comments    #
