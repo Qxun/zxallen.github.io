@@ -5,7 +5,7 @@ baseurl:
 url: https://zxallen.github.io
 date_format: "ordinal"
 title: zxallen's-blog
-subtitle: "仗剑走天涯的令狐葱"
+subtitle: "会敲代码的令狐葱"
 description: "Zxallen的个人博客"
 keywords: zxallen,linghucong,Python,Spider,Django,Flask
 timezone: Asia/Shanghai
@@ -30,10 +30,10 @@ navs:
     href: /
     label: 首页
 
-  -
-    href: /https://www.jianshu.com/u/bf4c0b4a8c83
-    label: 简书
-
+  #-
+    #href: /https://www.jianshu.com/u/bf4c0b4a8c83
+    #label: 简书
+#
   -
     href: /categories/
     label: 分类
